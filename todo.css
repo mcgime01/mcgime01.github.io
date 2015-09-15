@@ -6,7 +6,7 @@ font-color: red;
 font-color: orange;
 }
 .low {
-font-color: grey;
+font-color: rgb(155, 171, 171);
 }
 .done {
   text-decoration: line-through;
