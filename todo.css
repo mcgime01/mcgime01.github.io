@@ -3,10 +3,10 @@
 font-color: red;
 }
 .medium {
-font-color: orange
+font-color: orange;
 }
 .low {
-font-color: grey
+font-color: grey;
 }
 .done {
   text-decoration: line-through;
