@@ -1,2 +1,16 @@
-<style>
-article 
+.high {
+  background-color: red;
+  color: white;
+}
+.medium {
+  background-color: orange;
+  color: white;
+}
+.low {
+  background-color: rgb(182, 182, 190);
+  color: black;
+}
+.done {
+  background-color: black;
+  color: rgb(0, 255, 255);
+}
