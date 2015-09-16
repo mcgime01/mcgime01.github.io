@@ -1,9 +1,9 @@
 <style>
 .high {
-color: red;
+  color: rgb(255, 0, 0);
 }
 .medium {
-color: orange;
+  color: orange;
 }
 .low {
   color: rgb(155, 171, 171);
