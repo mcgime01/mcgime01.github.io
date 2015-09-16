@@ -1,12 +1,12 @@
 <style>
 .high {
-font-color: red;
+color: red;
 }
 .medium {
-font-color: orange;
+color: orange;
 }
 .low {
-font-color: rgb(155, 171, 171);
+  color: rgb(155, 171, 171);
 }
 .done {
   text-decoration: line-through;
