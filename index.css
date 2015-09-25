@@ -15,8 +15,14 @@ section{
     margin-top: 200px;
 }
 #left {
-    background-color: green;
+    background-color: rgb(51, 153, 255);
 }
 #right {
-    background-color: blue;
+    background-color: rgb(102, 153, 255);
+}
+artical {
+    clear: both;
+}
+footer {
+    clear:both;
 }
