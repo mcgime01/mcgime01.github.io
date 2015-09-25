@@ -7,12 +7,12 @@ nav {
     width: 100%;
     background-color:rgb(51, 204, 255);
     position:fixed;
-    hight: 100px;
+    margin-top:60px;
 }
 section{
     width: 50%;
     float: left;
-    margin: 120px;
+    margin-top: 200px;
 }
 #left {
     background-color: green;
