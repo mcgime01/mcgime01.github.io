@@ -1,3 +1,9 @@
-body {
-    background-image: url("paper.gif");
+nav {
+    width: 100%;
+    background-color: lavander;
+    Position:fixed;
+}
+section{
+    width: 50%;
+    float: left;
 }
