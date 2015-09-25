@@ -1,11 +1,11 @@
 nav {
     width: 100%;
     background-color: lavander;
-    Position:fixed;
+    position:fixed;
     hight: 20px;
 }
 section{
     width: 50%;
     float: left;
-    Margin: 20px;
+    margin: 20px;
 }
