@@ -10,6 +10,9 @@ nav {
     position:fixed;
     margin-top:60px;
 }
+nav li {
+    display:inline;
+}
 section{
     width: 50%;
     float: left;
