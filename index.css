@@ -1,11 +1,12 @@
 header {
     position:fixed;
+    background-color:pink;
 }
 
 
 nav {
     width: 100%;
-    background-color: lavander;
+    background-color:light-green;
     position:fixed;
     hight: 100px;
 }
