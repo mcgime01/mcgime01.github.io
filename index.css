@@ -2,6 +2,7 @@ header {
     position:fixed;
     background-color:rgb(102, 255, 255);
     width: 100%;
+    text-align: center;
 }
 nav {
     width: 100%;
