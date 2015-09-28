@@ -13,6 +13,7 @@ nav {
 }
 nav li {
     display:inline;
+    margin-right: 20px;
 }
 section{
     width: 50%;
