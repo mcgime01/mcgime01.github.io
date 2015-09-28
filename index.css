@@ -10,11 +10,9 @@ nav {
     position:fixed;
     margin-top:60px;
     text-align: center;
-    word-spacing:30px;
 }
 nav li {
     display:inline;
-    text-align:center;
 }
 section{
     width: 50%;
