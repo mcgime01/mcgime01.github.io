@@ -2,3 +2,9 @@ section {
 width: 50%;
 flot: left;
 }
+#section1 {
+  background-color: Blue;
+}
+#section2 {
+  background-color: red;
+}
