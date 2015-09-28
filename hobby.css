@@ -1,6 +1,9 @@
+header {
+  text-align: center;
+}
 section {
 width: 50%;
-flot: left;
+float: left;
 }
 #section1 {
   background-color: Blue;
