@@ -1,5 +1,6 @@
 header {
   text-align: center;
+  background-color: blue;
 }
 section {
 width: 50%;
@@ -7,8 +8,8 @@ float: left;
 padding: 20px;
 }
 #section1 {
-  background-color: Blue;
+  background-color: red;
 }
 #section2 {
-  background-color: red;
+  background-color: yellow;
 }
