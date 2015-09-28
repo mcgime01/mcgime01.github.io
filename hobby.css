@@ -4,7 +4,7 @@ header {
 section {
 width: 50%;
 float: left;
-margin: 20px;
+padding: 20px;
 }
 #section1 {
   background-color: Blue;
