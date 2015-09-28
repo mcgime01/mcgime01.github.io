@@ -2,14 +2,14 @@ header {
     position:fixed;
     background-color:rgb(102, 255, 255);
     width: 100%;
-    text-align: center;
-    word-spacing: 30px;
+    text-align: center
 }
 nav {
     width: 100%;
     background-color:rgb(51, 204, 255);
     position:fixed;
     margin-top:60px;
+    text-align: center;
 }
 nav li {
     display:inline;
