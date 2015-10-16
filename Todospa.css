@@ -1,15 +1,16 @@
 .high {
-color:red;
+  color:red;
 }
 .medium {
-color: yellow;
+  color: yellow;
 }
 .low{
-color:green;
+  color:green;
 }
-section{
-width: 250px;
-height: 250px;
-padding: 50px;
-margin:25px
+#list section{
+  width: 250px;
+  height: 250px;
+  padding: 50px;
+  margin:25px
+  background-color: lightblue;
 }
