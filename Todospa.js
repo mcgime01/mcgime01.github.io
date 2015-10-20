@@ -1,7 +1,8 @@
 addnew = function () {
   var myList;
   myList = document.querySelector('#myList');
-  myList
+  myImput= document.querySelector('#myImput');
+  li = document.createElement("li")
   
 }
 
