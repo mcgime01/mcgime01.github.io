@@ -6,6 +6,7 @@ addnew = function () {
   textNode = document.createTextNode(myInput.value)
   input = document.createElement("input")
   input.type = "checkbox"
+  ul.appendChild(li)
   li.appendChild(textNode)
   li.appendChild(input)
   
