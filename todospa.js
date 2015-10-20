@@ -10,6 +10,8 @@ addnew = function () {
   li.appendChild(input)
   li.appendChild(textNode)
   
+  select = document.querySelector('#priority')
+  select.vlaue = className
   
 }
 
