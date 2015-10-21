@@ -21,5 +21,6 @@ checkFunc = function () {
   } else {
     this.parentNode.clasList.remove("done")
   }
+}
 
 
