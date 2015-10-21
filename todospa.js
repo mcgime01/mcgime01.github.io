@@ -19,7 +19,7 @@ checkFunc = function () {
   if (this.checked){
   this.parentNode.classList.add("done")
   } else {
-    this.parentNode.clasList.remove("done")
+    this.parentNode.classList.remove("done")
   }
 }
 
