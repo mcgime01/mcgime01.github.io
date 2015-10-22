@@ -15,8 +15,9 @@
 }
 .all {
   background-color: rgb(255, 80, 80);
+}
+.align{
   text-align: center;
-  
 }
 section{
   width: 700px;
