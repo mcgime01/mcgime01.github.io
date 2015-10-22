@@ -19,11 +19,10 @@
   
 }
 section{
-  text-align: center;
   width: 500px;
   height: 400px;
   padding: 10px;
-  margin:25px;
+  margin: auto;
   background-color: lightblue;
 }
 
