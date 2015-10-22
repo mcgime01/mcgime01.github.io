@@ -14,7 +14,7 @@ addnew = function () {
   
   select = document.querySelector('#priority')
   className = select.value
-  console.log ("hello world")
+  console.log (className)
 }
 
 checkFunc = function () {
