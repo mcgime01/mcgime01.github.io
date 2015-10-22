@@ -15,7 +15,7 @@ addnew = function () {
   select = document.querySelector('#priority')
   className = select.value
   console.log (className)
-  li.appendChild(className)
+  li.className = (className)
 }
 
 checkFunc = function () {
