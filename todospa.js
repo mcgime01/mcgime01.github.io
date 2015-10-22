@@ -10,12 +10,12 @@ addnew = function () {
   myList.appendChild(li)
   li.appendChild(input)
   li.appendChild(textNode)
-  localSave("myList")
   
   select = document.querySelector('#priority')
   className = select.value
   console.log (className)
   li.className = (className)
+  localSave("myList")
 }
 
 checkFunc = function () {
@@ -24,6 +24,7 @@ checkFunc = function () {
   } else {
     this.parentNode.classList.remove("done")
   }
+  localSave("myList")
 }
 
 
