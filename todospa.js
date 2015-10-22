@@ -10,6 +10,7 @@ addnew = function () {
   myList.appendChild(li)
   li.appendChild(input)
   li.appendChild(textNode)
+  localSave("#myList")
   
   select = document.querySelector('#priority')
   select.vlaue = className
