@@ -13,7 +13,8 @@ addnew = function () {
   localSave("myList")
   
   select = document.querySelector('#priority')
-  className = select.value  
+  className = select.value
+  console.log
 }
 
 checkFunc = function () {
